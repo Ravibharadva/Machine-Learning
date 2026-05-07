@@ -1,0 +1,4 @@
+best_model.pkl
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
