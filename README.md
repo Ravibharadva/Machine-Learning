@@ -19,19 +19,15 @@ Machine-Learning/
 ├── Future_Deep_Learning_Project/
 ├── Future_PINN_Project/
 └── README.md
-Current Projects
-Titanic_ML
 
-A machine learning project for Titanic survival prediction.
+#Current Projects
+  Titanic_ML:  A machine learning project for Titanic survival prediction.
 
-Heart_Disease_ML
-
+#Heart_Disease_ML
 A machine learning project for heart disease prediction using classification models.
 
-Tools & Libraries
-
+#Tools & Libraries
 Common libraries used in these projects:
-
 Python
 NumPy
 Pandas
@@ -39,10 +35,9 @@ Matplotlib
 Scikit-learn
 TensorFlow / PyTorch
 Jupyter Notebook
-Goal
 
+#Goal
 The goal of this repository is to organize my projects and improve my skills in machine learning, deep learning, and scientific machine learning.
 
-Author
-
+#Author
 Ravi Bharadva
