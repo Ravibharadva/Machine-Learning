@@ -42,6 +42,7 @@ Common libraries used in these projects:
 - Scikit-learn
 - TensorFlow / PyTorch
 - Jupyter Notebook
+- VScode
 
 ## Goal
 
