@@ -4,7 +4,6 @@ This repository contains my learning and practice projects related to:
 
 - Machine Learning
 - Deep Learning
-- Physics-Informed Neural Networks (PINNs)
 - Data analysis and model evaluation
 
 ## Repository Structure
