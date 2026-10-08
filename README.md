@@ -1,4 +1,4 @@
-# Machine Learning, Deep Learning & PINN Projects
+# Machine Learning Projects
 
 This repository contains my learning and practice projects related to:
 
